@@ -1,0 +1,4 @@
+github.com/console-dns/spec v0.0.0-20250418005945-f47634741013 h1:ss5q7dzhwid8B4WXs51nw3xP3FjV3ApofUmS8Jw4Bpk=
+github.com/console-dns/spec v0.0.0-20250418005945-f47634741013/go.mod h1:e2TLp3xJYgHogmQk2FRsmh/rwq1KCN0V29yVNOY7ASk=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
